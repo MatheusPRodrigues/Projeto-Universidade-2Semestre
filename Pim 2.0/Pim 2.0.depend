@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1730314427 source:c:\users\admin\desktop\pim 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<stdbool.h>
+	<math.h>
+	<ctype.h>
+
+1730328374 source:c:\users\unip\desktop\pim 2.0\pim 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<stdbool.h>
+	<math.h>
+	<ctype.h>
+
+1730565484 source:c:\users\admin\desktop\pim definitive\pim 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<stdbool.h>
+	<math.h>
+	<ctype.h>
+
